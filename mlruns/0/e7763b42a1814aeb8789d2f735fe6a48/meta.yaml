@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/luketto/Desktop/I%20Semestre%20V%20Anno/AI%20System/AISE_Ch2/mlruns/0/e7763b42a1814aeb8789d2f735fe6a48/artifacts
+end_time: 1727443031487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7763b42a1814aeb8789d2f735fe6a48
+run_name: sassy-yak-153
+run_uuid: e7763b42a1814aeb8789d2f735fe6a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727443028581
+status: 3
+tags: []
+user_id: luketto

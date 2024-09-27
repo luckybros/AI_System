@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/luketto/Desktop/I%20Semestre%20V%20Anno/AI%20System/AISE_Ch2/mlruns/0/31fda8cff54545cb9d8642dc33f1978e/artifacts
+end_time: 1727443605989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31fda8cff54545cb9d8642dc33f1978e
+run_name: painted-cow-25
+run_uuid: 31fda8cff54545cb9d8642dc33f1978e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727443603733
+status: 3
+tags: []
+user_id: luketto
